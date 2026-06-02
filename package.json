@@ -1,0 +1,35 @@
+{
+  "name": "peeking",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "antd": "^5.0.0",
+    "@ant-design/icons": "^5.0.0",
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@tanstack/react-query": "^5.0.0",
+    "next-auth": "^4.0.0",
+    "axios": "^1.0.0",
+    "dayjs": "^1.0.0",
+    "lucide-react": "^0.400.0",
+    "recharts": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "^15"
+  }
+}
